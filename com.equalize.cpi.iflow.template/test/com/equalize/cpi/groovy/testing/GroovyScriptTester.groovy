@@ -17,7 +17,7 @@ println("Body:\r\n" + msg.getBody())
 
 def displayMaps = { String mapName, Map map ->
 	println mapName
-	map.each { key, value -> println( key + " = " + value) }
+	map.each { key, value -> println("$key = $value") }
 }
 displayMaps("Headers:", msg.getHeaders())
 displayMaps("Properties:", msg.getProperties())
