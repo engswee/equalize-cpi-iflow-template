@@ -1,4 +1,4 @@
-package com.equalize.cpi.spock.testing
+package test.main.resources.script
 
 import com.sap.gateway.ip.core.customdev.processor.MessageImpl
 import com.sap.gateway.ip.core.customdev.util.Message

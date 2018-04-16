@@ -1,5 +1,3 @@
-package com.equalize.cpi.groovy.testing
-
 import com.sap.gateway.ip.core.customdev.processor.MessageImpl
 import com.sap.gateway.ip.core.customdev.util.Message
 // Load Groovy Script
