@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/yeohe/Desktop/Library/spock-core-1.1-groovy-2.4.jar"/>
+	<classpathentry kind="lib" path="C:\Users\yeohe\.m2\repository\org\spockframework\spock-core\1.0-groovy-2.0\spock-core-1.0-groovy-2.0.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="lib" path="C:/Users/yeohe/Desktop/Library/com.sap.gw.rt.camel.components.custom-development_1.39.4.jar"/>
