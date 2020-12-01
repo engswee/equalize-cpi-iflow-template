@@ -21,7 +21,7 @@ class GroovyScriptSpecification extends spock.lang.Specification {
 	
 	def "message body, headers and properties are updated "() {
 		
-		given: "the message body, header and propery is provided with initial value"
+		given: "the message body, header and property is provided with initial value"
 		this.msg.setBody(new String("Hello Groovy World"))
 		this.msg.setHeader("oldHeader", "MyGroovyHeader")
 		this.msg.setProperty("oldProperty", "MyGroovyProperty")
